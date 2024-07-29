@@ -1,6 +1,7 @@
 {
   "name": "personal-website1",
   "version": "0.1.0",
+  "homepage": "https://silly-cat-6bb444.netlify.app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
